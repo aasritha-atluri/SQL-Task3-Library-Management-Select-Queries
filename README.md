@@ -18,7 +18,8 @@ Before running this script, please make sure you have already created the tables
    - Using `LIMIT` to return only a certain number of rows.
 
 ## Files
-* **task3.sql** → SQL script containing all the queries for Task 3.
+* **task3.sql** - SQL script containing all the queries for Task 3.
+* **README.md** - Documentation.
 
 ## How to Run
 1. Open MySQL Workbench, CLI, or an online compiler like [OneCompiler](https://onecompiler.com/mysql).  
