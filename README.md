@@ -4,7 +4,7 @@ It demonstrates how to use `SELECT` queries in the **Library Management System**
 
 ## Prerequisite
 Before running this script, please make sure you have already created the tables from **Task 1**.  
-You can find them here: [Library-Management-Schema](https://github.com/aasritha-atluri/Library-Management-Schema) and and also inserted data from **Task 2**.
+You can find them here: [Library-Management-Schema](https://github.com/aasritha-atluri/Library-Management-Schema) and also inserted data from **Task 2**.
 
 ## What is Covered
 1. **SELECT***
