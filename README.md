@@ -3,7 +3,8 @@ This repository contains the SQL script for **Task 3** of the SQL Developer Inte
 It demonstrates how to use `SELECT` queries in the **Library Management System** database.
 
 ## Prerequisite
-Before running this script, please make sure you have already created the tables from **Task 1** and inserted data from **Task 2**.
+Before running this script, please make sure you have already created the tables from **Task 1**.  
+You can find them here: [Library-Management-Schema](https://github.com/aasritha-atluri/Library-Management-Schema) and and also inserted data from **Task 2**.
 
 ## What is Covered
 1. **SELECT***
